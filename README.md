@@ -1,6 +1,7 @@
 # DrawMyYear
 ## Presentacion DrawMyYear
-### Colaboradores 
+##
+### 🚀Colaboradores: 
 ###  -Ferran Latorre
 ###  -Anthony Chavez
 ###  -Joel Jimenez
