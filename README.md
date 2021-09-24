@@ -1,9 +1,12 @@
 # DrawMyYear
 ## Presentacion DrawMyYear
+sdfafafafafafafafa
 ##
-### 🚀Colaboradores: 
-###  -Ferran Latorre
-###  -Anthony Chavez
-###  -Joel Jimenez
-###  -Juanda Gari
-  
+### 🚀 Autores
+-Ferran Latorre
+-Anthony Chavez
+-Joel Jimenez
+-Juanda Gari
+
+
+⌨️ con ❤️ por DrawMyYear 😊

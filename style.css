@@ -1,7 +1,66 @@
 body {background-color: coral;}
 
-title {
+#titulo1 {
         font-family: 'Feast of Flesh BB', arial;
-        font-size: 48px;
+        font-size: 80px;
         text-shadow: 4px 4px 4px #aaa;
+        text-align: center;
+        
       }
+
+
+#ferran {
+    margin-top: 200px;
+    padding-left: 500px;
+}
+
+#joel {
+    margin-top: 70px;
+    padding-left: 500px;
+
+}
+
+
+table{
+    margin-top: 215px;
+    padding-left: 380px;
+}
+
+/*
+#ferrantd {
+
+
+}
+*/
+
+#joeltd {
+    margin-left: 300px;
+}
+
+
+
+
+
+#h2ferran {
+    text-align: center;
+}
+
+#h2joel {
+    text-align: center;
+}
+
+#h2juanda {
+    text-align: center;
+}
+
+
+#h2anthony {
+    text-align: center;
+}
+
+
+/* footer */
+footer {
+        text-align: center;
+        margin-top: 225px;
+}
