@@ -1,0 +1,142 @@
+body {background-color: #DADADA;}
+
+
+#titulo1 {
+    font-family: 'Feast of Flesh BB', arial;
+    font-size: 60px;
+    text-shadow: 4px 4px 4px rgba(13, 66, 146, 0.521);
+    text-align: center;
+    
+  }
+
+
+
+div {
+    margin-top: 100px;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: black ;
+}
+
+
+
+/* boton volver */
+#volver{
+    text-align: center;
+    text-decoration: none;
+    color:black;
+    font-size: 15px;
+    list-style:none;
+    width: 5%;
+    background: #defa3ed3;
+    border: 1.5px solid black;
+    border-radius: 10%;
+    margin-left: 1700px;
+}
+
+
+
+
+
+h2 {
+    text-align: center;
+}
+
+
+h3 {
+    text-align: center;
+}
+
+
+h4 {
+    text-align: center;
+}
+
+
+
+
+
+#td0 {
+    padding-left: 130px;
+}
+
+#td01 {
+    padding-left: 50px;
+}
+
+
+
+
+
+#td1 {
+    padding-left: 600px;
+}
+
+#td11 {
+    padding-left: 50px;
+}
+
+
+
+
+#td2 {
+    padding-left: 440px;
+}
+
+#td21 {
+    padding-left: 50px;
+}
+
+
+
+
+
+#td3 {
+    padding-left: 650px;
+}
+
+#td31 {
+    padding-left: 50px;
+}
+
+
+
+
+
+#td4 {
+    padding-left: 490px;
+}
+
+#td41 {
+    padding-left: 50px;
+}
+
+
+
+p {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+#footer {
+    text-align: center;
+    margin-top: 120px;
+    color: black;
+}
+
+
+#copyright {
+    padding: 4px;
+    background-color: blanchedalmond;
+}
