@@ -6,6 +6,9 @@
 }
 
 
+
+
+
 .centrar {
     margin: auto;
     display: block;
@@ -20,9 +23,13 @@
 #textoC {
     text-align: center;
     font-family: Arial, sans-serif;
-    
 
 }
+
+
+
+
+
 
 #textoV {
     text-align: center;
@@ -63,6 +70,41 @@
     padding-left: 200px;
 }
 
+
+
+
+
+
+
+
+#Tdual {
+    text-align: center;
+    text-align: 150px;
+    font-family: Impact, fantasy;
+}
+
+#textoD {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#dual {
+    padding-left: 740px;
+}
+
+
+
+.zoom {
+    transition: transform .1s; 
+    align-items: center;
+}
+ 
+.zoom:hover {
+    transform: scale(1.1); 
+}
+
+
+
 #volver {
     text-align: center;
     text-decoration: none;
@@ -84,15 +126,11 @@
 
 
 
-
-
 .image-fondo{
-    background-image: url("../DrawMyYear/img/fondo2.jpg");
+    background-image: url("img/fondo2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
-
-
 
 
 #footerjoel {
