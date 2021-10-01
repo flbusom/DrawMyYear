@@ -1,0 +1,102 @@
+#tituloPrincipal {
+    font-family: 'Feast of Flesh BB', arial;
+    font-size: 60px;
+    text-shadow: 4px 4px 4px #D4AC0D;
+    text-align: center;
+}
+
+
+.centrar {
+    margin: auto;
+    display: block;
+}
+
+#Tcolonies {
+    text-align: center;
+    text-align: 150px;
+    font-family: Impact, fantasy;
+}
+
+#textoC {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    
+
+}
+
+#textoV {
+    text-align: center;
+}
+
+#aina {
+    padding-left: 300px;
+}
+
+#canillo {
+    padding-left: 110px;
+}
+
+#grup {
+    padding-left: 110px;
+}
+
+
+
+
+
+#Tvacaciones {
+    text-align: center;
+    text-align: 150px;
+    font-family: Impact, fantasy;
+}
+
+#textoV {
+    font-family: Arial, sans-serif;
+}
+
+
+#refugi {
+    padding-left: 500px;
+}
+
+#palau {
+    padding-left: 200px;
+}
+
+#volver {
+    text-align: center;
+    text-decoration: none;
+    list-style:none;
+    font-size: 25px;
+    color:black;
+    background: goldenrod;
+    border: 2px solid white;
+    border-radius: 6px;
+    width: 10%;
+    margin: auto;
+    
+}
+
+.button {
+    color: black;
+    text-decoration: none;
+}
+
+
+
+
+
+.image-fondo{
+    background-image: url("../DrawMyYear/img/fondo2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+#footerjoel {
+    text-align: center;
+    padding-top: 350px;
+}
+
