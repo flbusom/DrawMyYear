@@ -1,7 +1,6 @@
 # DrawMyYear
 ## Presentacion DrawMyYear
 
-##
 ### 🚀 Autores
 -Ferran Latorre
 -Anthony Chavez
