@@ -1,6 +1,6 @@
 # DrawMyYear
 ## Presentacion DrawMyYear
-sdfafafafafafafafa
+
 ##
 ### 🚀 Autores
 -Ferran Latorre
