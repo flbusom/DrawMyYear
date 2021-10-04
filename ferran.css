@@ -1,6 +1,6 @@
 body {background-color: #DADADA;}
 
-
+/**/
 #titulo1 {
     font-family: 'Feast of Flesh BB', arial;
     font-size: 60px;
@@ -41,7 +41,7 @@ a{
 
 
 
-
+/**/
 h2 {
     text-align: center;
 }
@@ -59,7 +59,7 @@ h4 {
 
 
 
-
+/**/
 #td0 {
     padding-left: 130px;
 }
@@ -71,7 +71,7 @@ h4 {
 
 
 
-
+/**/
 #td1 {
     padding-left: 600px;
 }
@@ -82,7 +82,7 @@ h4 {
 
 
 
-
+/**/
 #td2 {
     padding-left: 440px;
 }
@@ -93,8 +93,7 @@ h4 {
 
 
 
-
-
+/**/
 #td3 {
     padding-left: 650px;
 }
@@ -105,8 +104,7 @@ h4 {
 
 
 
-
-
+/**/
 #td4 {
     padding-left: 490px;
 }
@@ -120,8 +118,6 @@ h4 {
 p {
     text-align: center;
 }
-
-
 
 
 
